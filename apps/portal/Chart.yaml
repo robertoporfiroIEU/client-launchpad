@@ -9,6 +9,3 @@ dependencies:
 - name: kubernetes-dashboard
   version: 7.11.1
   repository: https://kubernetes.github.io/dashboard
-- name: nginx
-  version: 13.2.33 
-  repository: https://charts.bitnami.com/bitnami
