@@ -1,2 +1,8 @@
-portal:
+mysql:
   replicaCount: 1
+
+postgresql:
+  replicaCount: 2
+
+nginx:
+  replicaCount: 3
