@@ -1,0 +1,15 @@
+ms1:
+  enabled: true
+  replicaCount: 1
+
+ms2:
+  enabled: true
+  replicaCount: 2
+
+ms3:
+  enabled: true
+  replicaCount: 3
+
+ms4:
+  enabled: true
+  replicaCount: 3
