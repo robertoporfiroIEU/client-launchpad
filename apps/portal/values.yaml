@@ -1,8 +1,11 @@
 mysql:
-  replicaCount: 2
+  secondary:
+    replicaCount: 2
 
 postgresql:
   replicaCount: 2
 
 nginx:
   replicaCount: 2
+  service:
+    type: ClusterIP
