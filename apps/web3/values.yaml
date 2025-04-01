@@ -1,2 +1,2 @@
-tomcat:
-  replicaCount: 1
+nginx:
+  replicaCount: 3

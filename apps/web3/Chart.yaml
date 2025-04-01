@@ -6,6 +6,6 @@ version: 1.0.0
 appVersion: "1.0.0"
 
 dependencies:
-- name: tomcat
-  version: 10.3.6
+- name: nginx
+  version: 15.14.0 
   repository: https://charts.bitnami.com/bitnami
