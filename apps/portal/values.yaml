@@ -2,7 +2,7 @@ mysql:
   replicaCount: 1
 
 postgresql:
-  replicaCount: 2
+  replicaCount: 1
 
 nginx:
   replicaCount: 3
