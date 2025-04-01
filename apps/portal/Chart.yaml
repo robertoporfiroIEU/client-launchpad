@@ -1,6 +1,6 @@
 apiVersion: v2
 name: client-launchpad-portal
-description: Helm Umbrella chart
+description: Helm Umbrella Chart for client-launchpad-portal
 type: application
 version: 1.0.0
 appVersion: "1.0.0"
