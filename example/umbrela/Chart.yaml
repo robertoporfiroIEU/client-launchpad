@@ -16,10 +16,10 @@ type: application
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
 version: 1.0.0
 
-# This is the version number of the application being deployed. This version number should be
-# incremented each time you make changes to the application. Versions are not expected to
-# follow Semantic Versioning. They should reflect the version the application is using.
-appVersion: "1.0.0"
+# This is the version number of the application being deployed. 
+# But the Helm chart version is completely different than the application version it contains. 
+# This means that you can track versions on the Helm chart itself separately from the applications it defines.
+appVersion: "umbrella-1.0.0"
 
 dependencies:
   - name: ms1
