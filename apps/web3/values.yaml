@@ -1,2 +1,4 @@
 tomcat:
   replicaCount: 2
+  service:
+    type: ClusterIP  
